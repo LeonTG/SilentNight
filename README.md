@@ -2,17 +2,17 @@
 
 **Description:**
 
-When a player dies it toggles between perma day and perma night, while it's night you cannot see name tags, f3, health, use the chat or see death messages.
+When a player dies it switches between perma day and perma night. While it is perma night you cannot see name tags, f3, health, talk in the chat or see death messages of other people.
 
 ___
 
 **Commands:**
 
-/silentnight info - *View plugin information, plugin maker and version.*
+/silentnight info - *View plugin information.*
 
-/silentnight enable - *Enable the scenario.*
+/silentnight enable - *Enables the scenario.*
 
-/silentnight disable - *Disable the scenario.*
+/silentnight disable - *Disables the scenario.*
 
 **Permissions:**
 

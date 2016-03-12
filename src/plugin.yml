@@ -1,0 +1,9 @@
+name: SilentNight
+main: com.leontg77.silentnight.Main
+version: 1.0
+author: LeonTG77
+description: When a player dies it toggles between perma day and perma night, while it's night you cannot see name tags, f3, health, use the chat or see death messages.
+
+commands:
+    silentnight:
+        description: Get information, enable or disable the scenario.

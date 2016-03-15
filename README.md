@@ -2,7 +2,7 @@
 
 **Description:**
 
-When a player dies it switches between perma day and perma night. While it is perma night you cannot see name tags, f3, health, talk in the chat or see death messages of other people.
+When a player dies it switches between perma day and perma night. While it is perma night you cannot see name tags, health, talk in the chat or see death messages of other people.
 
 ___
 

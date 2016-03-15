@@ -29,14 +29,12 @@ public class DeathListener implements Listener {
 		Team team = board.getTeam("SILENTNIGHTTEAM");
 		
 		if (player.getWorld().getTime() == 6000) {
-			player.getWorld().setGameRuleValue("reducedDebugInfo", "true");
 			player.getWorld().setTime(18000);
 			
 			board.clearSlot(DisplaySlot.PLAYER_LIST);
 			
 			team.setNameTagVisibility(NameTagVisibility.NEVER);
 		} else {
-			player.getWorld().setGameRuleValue("reducedDebugInfo", "false");
 			player.getWorld().setTime(6000);
 			
 			for (Objective obj : board.getObjectivesByCriteria("health")) {
